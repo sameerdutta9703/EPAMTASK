@@ -5,6 +5,7 @@ namespace ProtectedConstructorExample
    {
        int num;
        string name;
+
         //accesed every where except from the subclass of different package
         protected ProtectedConstructor()
         {

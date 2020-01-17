@@ -1,7 +1,7 @@
 using System;
 namespace DefaultConst
 {
-   class Constructor
+   class DefaultConstructor
    {
        int num;
        string name;
@@ -13,7 +13,7 @@ namespace DefaultConst
 
        public static void Main(string[] args)
        {
-           Constructor c = new Constructor();
+           DefaultConstructor c = new DefaultConstructor();
            
            Console.WriteLine(c.name);
            Console.WriteLine(c.num);
