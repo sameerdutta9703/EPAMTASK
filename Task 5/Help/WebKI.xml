@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Add method" Url="html/5ab70577-d218-4da6-4bf4-c193fc40efc8.htm" />
+  <HelpKINode Title="Math class">
+    <HelpKINode Title="Math Class" Url="html/2a2d4471-867e-4968-9ca7-0a24e4bfd4cc.htm" />
+    <HelpKINode Title="constructor" Url="html/83fa0b3f-43af-6be5-9c06-54792e7a9485.htm" />
+    <HelpKINode Title="methods" Url="html/13a281e4-066a-5f38-37cf-d3d2e3e188e9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Math.Add method" Url="html/5ab70577-d218-4da6-4bf4-c193fc40efc8.htm" />
+  <HelpKINode Title="Math.Math constructor" Url="html/83fa0b3f-43af-6be5-9c06-54792e7a9485.htm" />
+  <HelpKINode Title="Math.Subtract method" Url="html/4f07a47f-bb65-0708-5da6-42ae7f780739.htm" />
+  <HelpKINode Title="MathsApplication namespace" Url="html/c3088b37-b35c-df85-308c-19d18156ed62.htm" />
+  <HelpKINode Title="MathsApplication.Math class" Url="html/2a2d4471-867e-4968-9ca7-0a24e4bfd4cc.htm" />
+  <HelpKINode Title="Subtract method" Url="html/4f07a47f-bb65-0708-5da6-42ae7f780739.htm" />
+</HelpKI>

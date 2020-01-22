@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="493b5dcc-ec7f-4176-b79f-682fbe00b083" Title="MathsApplication" Url="html/c3088b37-b35c-df85-308c-19d18156ed62.htm">
+    <HelpTOCNode Id="bfe4635e-8c46-4678-9bb1-4e20b06d87b7" Title="Math Class" Url="html/2a2d4471-867e-4968-9ca7-0a24e4bfd4cc.htm">
+      <HelpTOCNode Title="Math Constructor " Url="html/83fa0b3f-43af-6be5-9c06-54792e7a9485.htm" />
+      <HelpTOCNode Id="a1eac129-0ebe-4029-8714-dfeada64d9b0" Title="Math Methods" Url="html/13a281e4-066a-5f38-37cf-d3d2e3e188e9.htm">
+        <HelpTOCNode Id="958e07ba-9547-495e-9822-a2d9289a4886" Title="Add Method " Url="html/5ab70577-d218-4da6-4bf4-c193fc40efc8.htm">
+          <HelpTOCNode Title="Add Method (Double, Double)" Url="html/8ae33cda-76fe-801d-60ff-16ca425512f8.htm" />
+          <HelpTOCNode Title="Add Method (Int32, Int32)" Url="html/d5be6501-a1e3-5516-feca-ab071df62eb7.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="750ed0f5-4853-4738-8391-ed80dfe8e981" Title="Subtract Method " Url="html/4f07a47f-bb65-0708-5da6-42ae7f780739.htm">
+          <HelpTOCNode Title="Subtract Method (Double, Double)" Url="html/e01429c9-f48c-593c-eeb5-9abf59663221.htm" />
+          <HelpTOCNode Title="Subtract Method (Int32, Int32)" Url="html/5d38cd2b-a036-2b17-c292-a54f17941712.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
