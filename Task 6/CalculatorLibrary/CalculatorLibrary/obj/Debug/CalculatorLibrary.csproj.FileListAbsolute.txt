@@ -1,0 +1,4 @@
+C:\Users\Sameer_Dutta\source\repos\CalculatorLibrary\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+C:\Users\Sameer_Dutta\source\repos\CalculatorLibrary\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+C:\Users\Sameer_Dutta\source\repos\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+C:\Users\Sameer_Dutta\source\repos\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb

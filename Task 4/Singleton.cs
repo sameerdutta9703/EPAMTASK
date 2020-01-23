@@ -8,12 +8,12 @@ class Singleton
     }
 }
 
-class SingletonDemo
+sealed class SingletonDemo
 {
     public static readonly SingletonDemo obj = new SingletonDemo();
 
     //Constructor with no parameter
-    SingletonDemo()
+    private SingletonDemo()
     {
 
     }
