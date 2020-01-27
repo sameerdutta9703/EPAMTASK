@@ -1,0 +1,8 @@
+C:\Users\Sameer_Dutta\source\repos\MockChecking\UnitTestingMock\bin\Debug\UnitTestingMock.dll
+C:\Users\Sameer_Dutta\source\repos\MockChecking\UnitTestingMock\bin\Debug\UnitTestingMock.pdb
+C:\Users\Sameer_Dutta\source\repos\MockChecking\UnitTestingMock\bin\Debug\MockChecking.dll
+C:\Users\Sameer_Dutta\source\repos\MockChecking\UnitTestingMock\bin\Debug\MockChecking.pdb
+C:\Users\Sameer_Dutta\source\repos\MockChecking\UnitTestingMock\obj\Debug\UnitTestingMock.csprojAssemblyReference.cache
+C:\Users\Sameer_Dutta\source\repos\MockChecking\UnitTestingMock\obj\Debug\UnitTestingMock.csproj.CopyComplete
+C:\Users\Sameer_Dutta\source\repos\MockChecking\UnitTestingMock\obj\Debug\UnitTestingMock.dll
+C:\Users\Sameer_Dutta\source\repos\MockChecking\UnitTestingMock\obj\Debug\UnitTestingMock.pdb

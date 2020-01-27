@@ -1,0 +1,6 @@
+C:\Users\Sameer_Dutta\source\repos\ConsoleAppForTestDoubles\ConsoleAppForTestDoubles\bin\Debug\ConsoleAppForTestDoubles.exe.config
+C:\Users\Sameer_Dutta\source\repos\ConsoleAppForTestDoubles\ConsoleAppForTestDoubles\bin\Debug\ConsoleAppForTestDoubles.exe
+C:\Users\Sameer_Dutta\source\repos\ConsoleAppForTestDoubles\ConsoleAppForTestDoubles\bin\Debug\ConsoleAppForTestDoubles.pdb
+C:\Users\Sameer_Dutta\source\repos\ConsoleAppForTestDoubles\ConsoleAppForTestDoubles\obj\Debug\StubTest.csprojAssemblyReference.cache
+C:\Users\Sameer_Dutta\source\repos\ConsoleAppForTestDoubles\ConsoleAppForTestDoubles\obj\Debug\ConsoleAppForTestDoubles.exe
+C:\Users\Sameer_Dutta\source\repos\ConsoleAppForTestDoubles\ConsoleAppForTestDoubles\obj\Debug\ConsoleAppForTestDoubles.pdb

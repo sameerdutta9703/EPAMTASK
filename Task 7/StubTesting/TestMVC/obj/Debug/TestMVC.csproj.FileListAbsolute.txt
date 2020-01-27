@@ -1,0 +1,16 @@
+C:\Users\Sameer_Dutta\source\repos\ConsoleAppForTestDoubles\TestMVC\obj\Debug\TestMVC.csprojAssemblyReference.cache
+C:\Users\Sameer_Dutta\source\repos\ConsoleAppForTestDoubles\TestMVC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Sameer_Dutta\source\repos\ConsoleAppForTestDoubles\TestMVC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Sameer_Dutta\source\repos\ConsoleAppForTestDoubles\TestMVC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Sameer_Dutta\source\repos\ConsoleAppForTestDoubles\TestMVC\bin\Debug\TestMVC.dll
+C:\Users\Sameer_Dutta\source\repos\ConsoleAppForTestDoubles\TestMVC\bin\Debug\TestMVC.pdb
+C:\Users\Sameer_Dutta\source\repos\ConsoleAppForTestDoubles\TestMVC\bin\Debug\ConsoleAppForTestDoubles.exe
+C:\Users\Sameer_Dutta\source\repos\ConsoleAppForTestDoubles\TestMVC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Sameer_Dutta\source\repos\ConsoleAppForTestDoubles\TestMVC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Sameer_Dutta\source\repos\ConsoleAppForTestDoubles\TestMVC\bin\Debug\ConsoleAppForTestDoubles.pdb
+C:\Users\Sameer_Dutta\source\repos\ConsoleAppForTestDoubles\TestMVC\bin\Debug\ConsoleAppForTestDoubles.exe.config
+C:\Users\Sameer_Dutta\source\repos\ConsoleAppForTestDoubles\TestMVC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Sameer_Dutta\source\repos\ConsoleAppForTestDoubles\TestMVC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Sameer_Dutta\source\repos\ConsoleAppForTestDoubles\TestMVC\obj\Debug\TestMVC.csproj.CopyComplete
+C:\Users\Sameer_Dutta\source\repos\ConsoleAppForTestDoubles\TestMVC\obj\Debug\TestMVC.dll
+C:\Users\Sameer_Dutta\source\repos\ConsoleAppForTestDoubles\TestMVC\obj\Debug\TestMVC.pdb

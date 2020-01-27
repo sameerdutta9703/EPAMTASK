@@ -1,0 +1,5 @@
+C:\Users\Sameer_Dutta\source\repos\MockChecking\MockChecking\bin\Debug\MockChecking.dll
+C:\Users\Sameer_Dutta\source\repos\MockChecking\MockChecking\bin\Debug\MockChecking.pdb
+C:\Users\Sameer_Dutta\source\repos\MockChecking\MockChecking\obj\Debug\MockChecking.csprojAssemblyReference.cache
+C:\Users\Sameer_Dutta\source\repos\MockChecking\MockChecking\obj\Debug\MockChecking.dll
+C:\Users\Sameer_Dutta\source\repos\MockChecking\MockChecking\obj\Debug\MockChecking.pdb
