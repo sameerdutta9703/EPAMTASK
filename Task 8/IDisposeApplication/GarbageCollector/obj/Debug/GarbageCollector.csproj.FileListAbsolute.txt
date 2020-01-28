@@ -1,0 +1,20 @@
+C:\Users\Sameer_Dutta\source\repos\IDisposeApplication\GarbageCollector\bin\Debug\GarbageCollector.exe.config
+C:\Users\Sameer_Dutta\source\repos\IDisposeApplication\GarbageCollector\bin\Debug\GarbageCollector.exe
+C:\Users\Sameer_Dutta\source\repos\IDisposeApplication\GarbageCollector\bin\Debug\GarbageCollector.pdb
+C:\Users\Sameer_Dutta\source\repos\IDisposeApplication\GarbageCollector\bin\Debug\IDisposeApplication.exe
+C:\Users\Sameer_Dutta\source\repos\IDisposeApplication\GarbageCollector\bin\Debug\IDisposeApplication.pdb
+C:\Users\Sameer_Dutta\source\repos\IDisposeApplication\GarbageCollector\bin\Debug\IDisposeApplication.exe.config
+C:\Users\Sameer_Dutta\source\repos\IDisposeApplication\GarbageCollector\obj\Debug\GarbageCollector.csprojAssemblyReference.cache
+C:\Users\Sameer_Dutta\source\repos\IDisposeApplication\GarbageCollector\obj\Debug\GarbageCollector.csproj.CopyComplete
+C:\Users\Sameer_Dutta\source\repos\IDisposeApplication\GarbageCollector\obj\Debug\GarbageCollector.exe
+C:\Users\Sameer_Dutta\source\repos\IDisposeApplication\GarbageCollector\obj\Debug\GarbageCollector.pdb
+C:\Users\Sameer_Dutta\EPAM_TASK\Task 8\IDisposeApplication\GarbageCollector\bin\Debug\GarbageCollector.exe.config
+C:\Users\Sameer_Dutta\EPAM_TASK\Task 8\IDisposeApplication\GarbageCollector\bin\Debug\GarbageCollector.exe
+C:\Users\Sameer_Dutta\EPAM_TASK\Task 8\IDisposeApplication\GarbageCollector\bin\Debug\GarbageCollector.pdb
+C:\Users\Sameer_Dutta\EPAM_TASK\Task 8\IDisposeApplication\GarbageCollector\bin\Debug\IDisposeApplication.exe
+C:\Users\Sameer_Dutta\EPAM_TASK\Task 8\IDisposeApplication\GarbageCollector\bin\Debug\IDisposeApplication.pdb
+C:\Users\Sameer_Dutta\EPAM_TASK\Task 8\IDisposeApplication\GarbageCollector\bin\Debug\IDisposeApplication.exe.config
+C:\Users\Sameer_Dutta\EPAM_TASK\Task 8\IDisposeApplication\GarbageCollector\obj\Debug\GarbageCollector.csprojAssemblyReference.cache
+C:\Users\Sameer_Dutta\EPAM_TASK\Task 8\IDisposeApplication\GarbageCollector\obj\Debug\GarbageCollector.csproj.CopyComplete
+C:\Users\Sameer_Dutta\EPAM_TASK\Task 8\IDisposeApplication\GarbageCollector\obj\Debug\GarbageCollector.exe
+C:\Users\Sameer_Dutta\EPAM_TASK\Task 8\IDisposeApplication\GarbageCollector\obj\Debug\GarbageCollector.pdb

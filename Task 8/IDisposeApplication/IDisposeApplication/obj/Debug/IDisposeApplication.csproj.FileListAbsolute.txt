@@ -1,0 +1,12 @@
+C:\Users\Sameer_Dutta\source\repos\IDisposeApplication\IDisposeApplication\bin\Debug\IDisposeApplication.exe.config
+C:\Users\Sameer_Dutta\source\repos\IDisposeApplication\IDisposeApplication\bin\Debug\IDisposeApplication.exe
+C:\Users\Sameer_Dutta\source\repos\IDisposeApplication\IDisposeApplication\bin\Debug\IDisposeApplication.pdb
+C:\Users\Sameer_Dutta\source\repos\IDisposeApplication\IDisposeApplication\obj\Debug\IDisposeApplication.csprojAssemblyReference.cache
+C:\Users\Sameer_Dutta\source\repos\IDisposeApplication\IDisposeApplication\obj\Debug\IDisposeApplication.exe
+C:\Users\Sameer_Dutta\source\repos\IDisposeApplication\IDisposeApplication\obj\Debug\IDisposeApplication.pdb
+C:\Users\Sameer_Dutta\EPAM_TASK\Task 8\IDisposeApplication\IDisposeApplication\bin\Debug\IDisposeApplication.exe.config
+C:\Users\Sameer_Dutta\EPAM_TASK\Task 8\IDisposeApplication\IDisposeApplication\bin\Debug\IDisposeApplication.exe
+C:\Users\Sameer_Dutta\EPAM_TASK\Task 8\IDisposeApplication\IDisposeApplication\bin\Debug\IDisposeApplication.pdb
+C:\Users\Sameer_Dutta\EPAM_TASK\Task 8\IDisposeApplication\IDisposeApplication\obj\Debug\IDisposeApplication.csprojAssemblyReference.cache
+C:\Users\Sameer_Dutta\EPAM_TASK\Task 8\IDisposeApplication\IDisposeApplication\obj\Debug\IDisposeApplication.exe
+C:\Users\Sameer_Dutta\EPAM_TASK\Task 8\IDisposeApplication\IDisposeApplication\obj\Debug\IDisposeApplication.pdb
