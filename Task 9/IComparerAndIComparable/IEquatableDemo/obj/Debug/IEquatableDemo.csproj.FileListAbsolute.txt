@@ -1,0 +1,6 @@
+C:\Users\Sameer_Dutta\source\repos\IComparerAndIComparable\IEquatableDemo\bin\Debug\IEquatableDemo.exe.config
+C:\Users\Sameer_Dutta\source\repos\IComparerAndIComparable\IEquatableDemo\bin\Debug\IEquatableDemo.exe
+C:\Users\Sameer_Dutta\source\repos\IComparerAndIComparable\IEquatableDemo\bin\Debug\IEquatableDemo.pdb
+C:\Users\Sameer_Dutta\source\repos\IComparerAndIComparable\IEquatableDemo\obj\Debug\IEquatableDemo.csprojAssemblyReference.cache
+C:\Users\Sameer_Dutta\source\repos\IComparerAndIComparable\IEquatableDemo\obj\Debug\IEquatableDemo.exe
+C:\Users\Sameer_Dutta\source\repos\IComparerAndIComparable\IEquatableDemo\obj\Debug\IEquatableDemo.pdb
