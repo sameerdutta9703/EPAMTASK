@@ -1,6 +1,0 @@
-C:\Users\Sameer_Dutta\source\repos\AllCollectionsTypes\Concurrent\bin\Debug\Concurrent.exe.config
-C:\Users\Sameer_Dutta\source\repos\AllCollectionsTypes\Concurrent\bin\Debug\Concurrent.exe
-C:\Users\Sameer_Dutta\source\repos\AllCollectionsTypes\Concurrent\bin\Debug\Concurrent.pdb
-C:\Users\Sameer_Dutta\source\repos\AllCollectionsTypes\Concurrent\obj\Debug\Concurrent.csprojAssemblyReference.cache
-C:\Users\Sameer_Dutta\source\repos\AllCollectionsTypes\Concurrent\obj\Debug\Concurrent.exe
-C:\Users\Sameer_Dutta\source\repos\AllCollectionsTypes\Concurrent\obj\Debug\Concurrent.pdb
