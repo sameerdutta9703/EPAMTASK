@@ -1,13 +1,8 @@
 ﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CustomCollectionsArrayList
 {
-    class CustomCollectionArrayListClass<Object> : Random, IComparable
+    class CustomCollectionArrayListClass<Object>
     {
         //All the Data Members
         public Object[] elmentData;
@@ -86,28 +81,22 @@ namespace CustomCollectionsArrayList
             return -1;
         }
 
-        //Sorting the given ArrayList
-
-        //public void sort()
-        //{
-        //    for (int i = 0; i < count; i++)
-        //    {
-        //        for (int j = 1; j < (count - i); j++)
-        //        {
-        //            if (elmentData[j - 1])
-        //            {
-        //                Object temp = elmentData[j - 1];
-        //                elmentData[j - 1] = elmentData[j];
-        //                elmentData[j] = temp;
-        //            }
-        //        }
-        //    }
-
-        //}
-
-        public int CompareTo(object obj)
+        //sorting the given arraylist
+        public void sort()
         {
-            throw new NotImplementedException();
+            for (int i = 0; i < count; i++)
+            {
+                for (int j = 1; j < (count - i); j++)
+                {
+                    if (int.Parse(elmentData[j - 1].ToString())>int.Parse(elmentData[j].ToString()))
+                    {
+                        Object temp = elmentData[j - 1];
+                        elmentData[j - 1] = elmentData[j];
+                        elmentData[j] = temp;
+                    }
+                }
+            }
+
         }
 
         //Show methord to display the whole ArrayList
@@ -117,6 +106,7 @@ namespace CustomCollectionsArrayList
             {
                 Console.WriteLine(elmentData[i]);
             }
+            Console.WriteLine("\n");
         }
 
         //Deleting the given Object

@@ -1,6 +1,5 @@
 C:\Users\Sameer_Dutta\source\repos\CustomCollectionsArrayList\CustomCollectionsArrayList\bin\Debug\CustomCollectionsArrayList.exe.config
 C:\Users\Sameer_Dutta\source\repos\CustomCollectionsArrayList\CustomCollectionsArrayList\bin\Debug\CustomCollectionsArrayList.exe
 C:\Users\Sameer_Dutta\source\repos\CustomCollectionsArrayList\CustomCollectionsArrayList\bin\Debug\CustomCollectionsArrayList.pdb
-C:\Users\Sameer_Dutta\source\repos\CustomCollectionsArrayList\CustomCollectionsArrayList\obj\Debug\CustomCollectionsArrayList.csprojAssemblyReference.cache
 C:\Users\Sameer_Dutta\source\repos\CustomCollectionsArrayList\CustomCollectionsArrayList\obj\Debug\CustomCollectionsArrayList.exe
 C:\Users\Sameer_Dutta\source\repos\CustomCollectionsArrayList\CustomCollectionsArrayList\obj\Debug\CustomCollectionsArrayList.pdb
