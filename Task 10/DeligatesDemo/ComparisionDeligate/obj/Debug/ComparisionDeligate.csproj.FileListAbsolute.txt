@@ -1,0 +1,6 @@
+C:\Users\Sameer_Dutta\source\repos\DeligatesDemo\ComparisionDeligate\bin\Debug\ComparisionDeligate.exe.config
+C:\Users\Sameer_Dutta\source\repos\DeligatesDemo\ComparisionDeligate\bin\Debug\ComparisionDeligate.exe
+C:\Users\Sameer_Dutta\source\repos\DeligatesDemo\ComparisionDeligate\bin\Debug\ComparisionDeligate.pdb
+C:\Users\Sameer_Dutta\source\repos\DeligatesDemo\ComparisionDeligate\obj\Debug\ComparisionDeligate.csprojAssemblyReference.cache
+C:\Users\Sameer_Dutta\source\repos\DeligatesDemo\ComparisionDeligate\obj\Debug\ComparisionDeligate.exe
+C:\Users\Sameer_Dutta\source\repos\DeligatesDemo\ComparisionDeligate\obj\Debug\ComparisionDeligate.pdb

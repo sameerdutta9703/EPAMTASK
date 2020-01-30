@@ -1,0 +1,6 @@
+C:\Users\Sameer_Dutta\source\repos\DeligatesDemo\DeligatesDemo\bin\Debug\DeligatesDemo.exe.config
+C:\Users\Sameer_Dutta\source\repos\DeligatesDemo\DeligatesDemo\bin\Debug\DeligatesDemo.exe
+C:\Users\Sameer_Dutta\source\repos\DeligatesDemo\DeligatesDemo\bin\Debug\DeligatesDemo.pdb
+C:\Users\Sameer_Dutta\source\repos\DeligatesDemo\DeligatesDemo\obj\Debug\DeligatesDemo.csprojAssemblyReference.cache
+C:\Users\Sameer_Dutta\source\repos\DeligatesDemo\DeligatesDemo\obj\Debug\DeligatesDemo.exe
+C:\Users\Sameer_Dutta\source\repos\DeligatesDemo\DeligatesDemo\obj\Debug\DeligatesDemo.pdb
