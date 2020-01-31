@@ -11,6 +11,8 @@ namespace ObjectModel
     {
         static void Main(string[] args)
         {
+            #region"Object Model collection"
+            Console.WriteLine("ReadOnly Collection");
             List<int> list = new List<int>();
             list.Add(1);
             list.Add(3);
@@ -40,6 +42,9 @@ namespace ObjectModel
             bool contains = read.Contains(-1);
             int index = read.IndexOf(3);
             Console.WriteLine("{0}, {1}, {2}", count, contains, index);
+
+            Console.WriteLine("\n");
+            #endregion
 
             Console.ReadLine();
         }

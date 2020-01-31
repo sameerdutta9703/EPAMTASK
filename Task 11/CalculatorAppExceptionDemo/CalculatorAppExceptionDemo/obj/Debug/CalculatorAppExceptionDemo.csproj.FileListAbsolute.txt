@@ -1,0 +1,6 @@
+C:\Users\Sameer_Dutta\source\repos\CalculatorAppExceptionDemo\CalculatorAppExceptionDemo\bin\Debug\CalculatorAppExceptionDemo.exe.config
+C:\Users\Sameer_Dutta\source\repos\CalculatorAppExceptionDemo\CalculatorAppExceptionDemo\bin\Debug\CalculatorAppExceptionDemo.exe
+C:\Users\Sameer_Dutta\source\repos\CalculatorAppExceptionDemo\CalculatorAppExceptionDemo\bin\Debug\CalculatorAppExceptionDemo.pdb
+C:\Users\Sameer_Dutta\source\repos\CalculatorAppExceptionDemo\CalculatorAppExceptionDemo\obj\Debug\CalculatorAppExceptionDemo.csprojAssemblyReference.cache
+C:\Users\Sameer_Dutta\source\repos\CalculatorAppExceptionDemo\CalculatorAppExceptionDemo\obj\Debug\CalculatorAppExceptionDemo.exe
+C:\Users\Sameer_Dutta\source\repos\CalculatorAppExceptionDemo\CalculatorAppExceptionDemo\obj\Debug\CalculatorAppExceptionDemo.pdb

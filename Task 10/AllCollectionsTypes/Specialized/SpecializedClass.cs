@@ -10,6 +10,9 @@ namespace Specialized
     {
         static void Main(string[] args)
         {
+
+            #region"Specialized Collection"
+            Console.WriteLine("Specialized collection");
             StringCollection sc = new StringCollection();
 
             sc.Add("B");
@@ -22,6 +25,9 @@ namespace Specialized
             {
                 Console.WriteLine(obj);
             }
+
+            Console.WriteLine("\n");
+            #endregion
 
         }
     }

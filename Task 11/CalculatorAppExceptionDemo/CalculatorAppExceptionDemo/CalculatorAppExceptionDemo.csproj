@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{785BC266-4B44-4FE9-9219-04E1FAAACC76}</ProjectGuid>
+    <ProjectGuid>{3EA62EEB-A819-49F8-A1D9-D7DA29F226CC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AllCollectionsTypes</RootNamespace>
-    <AssemblyName>AllCollectionsTypes</AssemblyName>
+    <RootNamespace>CalculatorAppExceptionDemo</RootNamespace>
+    <AssemblyName>CalculatorAppExceptionDemo</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CollectionClass.cs" />
+    <Compile Include="CalculatorApp.cs" />
+    <Compile Include="LimitExtendedException.cs" />
+    <Compile Include="OperationLibrary.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
