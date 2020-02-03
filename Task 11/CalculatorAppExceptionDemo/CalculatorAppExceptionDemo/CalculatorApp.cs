@@ -31,11 +31,11 @@ namespace CalculatorAppExceptionDemo
             Console.WriteLine();
 
             // Showing the Custom Exception
-            int firstVal = int.MaxValue, secondval = int.MaxValue;
+            int firstVal = int.MaxValue, secondval = 22;
             try
             {
                 result = OperationLibrary.add(firstVal, secondval);
-                Console.WriteLine("{0} add by {1}={2}", firstVal, secondval, result);
+                Console.WriteLine("{0} plus {1} = {2}", firstVal, secondval, result);
             }
             catch (LimitExtendedException ex)
             {

@@ -12,7 +12,7 @@ namespace CalculatorAppExceptionDemo
         /// <returns>return the sum</returns>
         public static int add(int a, int b)
         {
-            if (a == int.MaxValue && b == int.MaxValue)
+            if (a >= int.MaxValue && b > 0 || a > 0 && b >= int.MaxValue)
                 throw new LimitExtendedException();
             return a + b;
         }
