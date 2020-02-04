@@ -1,0 +1,9 @@
+C:\Users\Sameer_Dutta\source\repos\Log4NetDemo\Log4NetDemo\bin\Debug\Log4NetDemo.exe.config
+C:\Users\Sameer_Dutta\source\repos\Log4NetDemo\Log4NetDemo\bin\Debug\Log4NetDemo.exe
+C:\Users\Sameer_Dutta\source\repos\Log4NetDemo\Log4NetDemo\bin\Debug\Log4NetDemo.pdb
+C:\Users\Sameer_Dutta\source\repos\Log4NetDemo\Log4NetDemo\bin\Debug\log4net.dll
+C:\Users\Sameer_Dutta\source\repos\Log4NetDemo\Log4NetDemo\bin\Debug\log4net.xml
+C:\Users\Sameer_Dutta\source\repos\Log4NetDemo\Log4NetDemo\obj\Debug\Log4NetDemo.csprojAssemblyReference.cache
+C:\Users\Sameer_Dutta\source\repos\Log4NetDemo\Log4NetDemo\obj\Debug\Log4NetDemo.csproj.CopyComplete
+C:\Users\Sameer_Dutta\source\repos\Log4NetDemo\Log4NetDemo\obj\Debug\Log4NetDemo.exe
+C:\Users\Sameer_Dutta\source\repos\Log4NetDemo\Log4NetDemo\obj\Debug\Log4NetDemo.pdb
