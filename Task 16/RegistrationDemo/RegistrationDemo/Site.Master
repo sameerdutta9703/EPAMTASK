@@ -55,7 +55,7 @@
                         <li><a runat="server" href="~/Contact">Contact</a></li>
                         <li><a runat="server" href="~/RegisterJS">Register Here JS</a></li>
                         <li><a runat="server" href="~/RegisterJQuery">Register Here JQuery</a></li>
-                        <li><a runat="server" href="~/LogIn">Log In</a></li>
+                        <li><a runat="server" href="~/Login">Log In</a></li>
                     </ul>
                 </div>
             </div>

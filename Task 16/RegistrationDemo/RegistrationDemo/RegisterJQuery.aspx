@@ -8,6 +8,14 @@
     <p>
         <br />
     </p>
+
+    <p style="font-size: xx-large">
+        Registration Form Using JQuery
+    </p>
+
+
+    <p>
+        &nbsp;</p>
     <p>
         <label for="name">Name</label>
         <input id="name" name="name" type="text">

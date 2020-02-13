@@ -6,7 +6,7 @@
     </p>
 
     <p style="font-size: xx-large">
-        Registration Form Using Javascrtipt
+        Registration Form Using Javascript
     </p>
 
     <p>
