@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenFieldDemoApplication", "TokenFieldDemoApplication\TokenFieldDemoApplication.csproj", "{16B2C8C2-7798-4FCC-AEC4-6F6028421E03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16B2C8C2-7798-4FCC-AEC4-6F6028421E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B2C8C2-7798-4FCC-AEC4-6F6028421E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B2C8C2-7798-4FCC-AEC4-6F6028421E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B2C8C2-7798-4FCC-AEC4-6F6028421E03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57D86C80-F776-4ED1-97C4-C5FDDAE8B1F2}
+	EndGlobalSection
+EndGlobal
