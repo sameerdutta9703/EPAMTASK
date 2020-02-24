@@ -1,15 +1,15 @@
-body{
+body {
     margin: 10px !important;
     font-family: 'Roboto Mono', monospace;
 }
 
-header{
+header {
     background-color: rgb(39, 56, 82);
     width: 97%;
     padding: 30px;
-    -webkit-box-shadow: 7px 7px 26px -7px rgba(0,0,0,1);
-    -moz-box-shadow: 7px 7px 26px -7px rgba(0,0,0,1);
-    box-shadow: 7px 7px 26px -7px rgba(0,0,0,1);
+    -webkit-box-shadow: 7px 7px 26px -7px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 7px 7px 26px -7px rgba(0, 0, 0, 1);
+    box-shadow: 7px 7px 26px -7px rgba(0, 0, 0, 1);
     border-radius: .8rem;
 }
 
@@ -20,17 +20,17 @@ header{
     text-align: center;
     margin: auto;
     border: 2px solid rgb(216, 91, 72);
-    border-radius: .8rem;    
+    border-radius: .8rem;
 }
 
-.headbar h1{
+.headbar h1 {
     font-family: 'Roboto Mono', monospace;
     margin: 0rem;
     color: rgb(39, 56, 82);
     text-transform: uppercase;
 }
 
-.headbar h5{
+.headbar h5 {
     font-family: 'Roboto Mono', monospace;
     margin: 0rem;
     color: rgb(39, 56, 82);
@@ -38,15 +38,15 @@ header{
     font-family: 'Roboto Mono';
 }
 
-main{
+main {
     margin: 50px;
 }
 
-main hr{
-    color: rgb(39, 56, 82);
+main hr {
+    border-color: rgb(39, 56, 82);
 }
 
-.main-head-area{
+.main-head-area {
     padding-top: 10px;
     padding-bottom: 25px;
     display: flex;
@@ -54,102 +54,103 @@ main hr{
     justify-content: space-between;
 }
 
-.select-category{
+.select-category {
     margin: 0px 0px 10px 0px;
 }
 
-.select-category h5{
+.select-category h5 {
     text-transform: uppercase;
 }
 
-#category{
+#category {
     padding: 5px;
     width: 200px;
     border: 2px solid rgb(39, 56, 82);
 }
 
-.main-heading{
-    margin:0px 0px 10px 0px;
+.main-heading {
+    margin: 0px 0px 10px 0px;
 }
 
-.suscribe-area h5{
+.suscribe-area h5 {
     margin: 10px 0px 20px 0px;
     text-transform: uppercase;
 }
 
-.email-area{
+.email-area {
     display: flex;
     border: 2px solid rgb(39, 56, 82);
 }
 
-#email-input{
+#email-input {
     border: 0px;
     padding: 7px;
 }
 
-#suscribe-button{
+#suscribe-button {
     border: 0px;
     color: #fff;
     background-color: rgb(39, 56, 82);
 }
 
-.main-news-section{
+.main-news-section {
     display: flex;
     flex-wrap: wrap;
     margin: 35px;
 }
 
-.news-card{
+.news-card {
     display: flex;
     flex-wrap: wrap;
     margin-top: 20px;
-    margin-bottom:20px ;
+    margin-bottom: 20px;
     padding: 10px;
     border: 10px;
     border-radius: .8rm;
-    -webkit-box-shadow: 7px 7px 26px -7px rgba(0,0,0,1);
-    -moz-box-shadow: 7px 7px 26px -7px rgba(0,0,0,1);
-    box-shadow: 7px 7px 26px -7px rgba(0,0,0,1);
+    -webkit-box-shadow: 7px 7px 26px -7px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 7px 7px 26px -7px rgba(0, 0, 0, 1);
+    box-shadow: 7px 7px 26px -7px rgba(0, 0, 0, 1);
 }
 
-.image-placeholder{
+.image-placeholder {
     width: 300px;
     height: 200px;
     background-color: rgb(208, 208, 208);
-    border: rgba(0,0,0,1);
+    border: rgba(0, 0, 0, 1);
     border-radius: .8rm;
-    -webkit-box-shadow: 7px 7px 26px -7px rgba(0,0,0,1);
-    -moz-box-shadow: 7px 7px 26px -7px rgba(0,0,0,1);
-    box-shadow: 7px 7px 26px -7px rgba(0,0,0,1);
+    -webkit-box-shadow: 7px 7px 26px -7px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 7px 7px 26px -7px rgba(0, 0, 0, 1);
+    box-shadow: 7px 7px 26px -7px rgba(0, 0, 0, 1);
 }
 
-.news-info{
+.news-info {
     max-width: 75%;
     margin-left: 35px;
 }
 
-.news-info h3, h6{
+.news-info h3,
+h6 {
     margin: 0px;
     margin-bottom: 5px;
 }
 
-#read-more-button{
+#read-more-button {
     border: 0px;
     border-radius: .8rm;
-    background-color:tomato;
+    background-color: tomato;
     padding: 10px;
     color: white;
 }
 
-footer{
+footer {
     background-color: rgb(39, 56, 82);
     width: 99%;
     height: 50px;
     padding: 10px;
     color: white;
     text-align: center;
-    -webkit-box-shadow: 7px 7px 26px -7px rgba(0,0,0,1);
-    -moz-box-shadow: 7px 7px 26px -7px rgba(0,0,0,1);
-    box-shadow: 7px 7px 26px -7px rgba(0,0,0,1);
+    -webkit-box-shadow: 7px 7px 26px -7px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 7px 7px 26px -7px rgba(0, 0, 0, 1);
+    box-shadow: 7px 7px 26px -7px rgba(0, 0, 0, 1);
     border-radius: .8rem;
 }
