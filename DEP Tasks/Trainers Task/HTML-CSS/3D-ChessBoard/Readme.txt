@@ -1,1 +1,0 @@
-Creating a 3d animated chessBoard with some features.
