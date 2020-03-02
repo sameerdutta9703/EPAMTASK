@@ -1,12 +1,16 @@
-function rentalCarCost(d) {
-    // Your solution here
-    if(d>=7){
-      return amount=(d*40)-50;
-    }
-    else if(d<7 && d>=3){
-      return amount=(d*40)-20;
-    }
-    else{
-      return d*40;
-    }
+// Question
+// http://www.codewars.com/kata/transportation-on-vacation
+
+function rentalCarCost(days) {
+  var amount = 0;
+  if (days >= 7) {
+    amount = (days * 40) - 50;
   }
+  else if (days < 7 && days >= 3) {
+    amount = (days * 40) - 20;
+  }
+  else {
+    amount = days * 40;
+  }
+  return amount;
+}

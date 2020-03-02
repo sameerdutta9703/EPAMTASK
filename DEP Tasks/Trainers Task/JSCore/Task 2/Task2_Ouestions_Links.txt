@@ -1,4 +1,0 @@
-http://www.codewars.com/kata/calculating-with-functions
-http://www.codewars.com/kata/get-the-middle-character
-http://www.codewars.com/kata/partition-on
-http://www.codewars.com/kata/word-count

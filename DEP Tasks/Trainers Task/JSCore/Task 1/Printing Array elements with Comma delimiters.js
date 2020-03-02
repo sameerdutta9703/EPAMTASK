@@ -1,6 +1,6 @@
-function printArray(array){
-    //show me the code!
-    //return array.toString();
-    //OR We can use Join 
-    return array.join(',');
-  }
+// Question
+// http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
+
+function printArray(array) {
+  return array.join(',');
+}
