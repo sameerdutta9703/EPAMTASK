@@ -1,0 +1,4 @@
+http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
+http://www.codewars.com/kata/opposite-number
+http://www.codewars.com/kata/basic-mathematical-operations
+http://www.codewars.com/kata/transportation-on-vacation
