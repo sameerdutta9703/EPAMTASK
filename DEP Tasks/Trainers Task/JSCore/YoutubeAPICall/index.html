@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>YoutubeAPICall</title>
+    
+    <link href="https://fonts.googleapis.com/css?family=Sen&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href=".">
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+      integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="./assets/css/styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>
+        <a href="index.html">YouTube Search</a>
+      </h1>
+    </header>
+
+    <div class="row">
+      <div class="col-md-6 col-md-offset-3">
+        <form action="#">
+          <p>
+            <input
+              type="text"
+              id="search"
+              placeholder="Enter the items to be searched"
+              class="form-control"
+            />
+          </p>
+          <p>
+            <input
+              type="submit"
+              value="Search"
+              class="form-control btn btn-primary w100"
+            />
+          </p>
+        </form>
+        <div id="results"></div>
+      </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="./assets/js/script.js"></script>
+    <script src="https://apis.google.com/js/client.js?onload=init"></script>
+  </body>
+</html>
