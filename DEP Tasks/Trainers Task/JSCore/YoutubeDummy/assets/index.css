@@ -1,0 +1,73 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.icon {
+  margin: 30px 30px 10px 60px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.searchArea {
+  max-width: 80%;
+  display: flex;
+  border: 2px solid #ccc;
+  margin: 0px 30px 40px 90px;
+}
+
+.searchInput {
+  width: 85%;
+  height: 50px;
+  font-size: 28px;
+  padding: 10px;
+  border: 0px;
+}
+
+.searchButton {
+  height: 70px;
+  width: 15%;
+  border: 0px;
+  padding: 10px;
+  background-color: #ccc;
+  font-size: 30px;
+}
+
+hr {
+  border-color: #ccc;
+  margin: 0px 65px 0px 65px;
+}
+
+.displayResults {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 50px;
+  justify-content: center;
+  color:black;
+}
+
+#image {
+  width: 350px;
+  height: 200px;
+}
+
+.cardDiv {
+  max-width: 350px;
+  display: flex;
+  flex-direction: column;
+  margin: 25px;
+  padding: 5px;
+}
+
+.previousNextButtons {
+  text-align: center;
+  margin: 20px;
+}
+
+.previousButton,
+.nextButton {
+  height: 80px;
+  width: 160px;
+  border: 0px;
+  padding: 10px;
+  background-color: #ccc;
+  font-size: 30px;
+}
