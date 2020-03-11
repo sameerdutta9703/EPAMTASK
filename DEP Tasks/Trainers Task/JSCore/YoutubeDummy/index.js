@@ -51,7 +51,7 @@ function nextResultSet() {
 function displayData(data) {
     let count = 1;
     nextPageToken = data.nextPageToken;
-    previousPageToken = data.previousPageToken;
+    previousPageToken = data.prevPageToken;
 
     var child = displayResults.lastElementChild;
     while (child) {

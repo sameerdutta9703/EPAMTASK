@@ -41,7 +41,6 @@ hr {
   flex-wrap: wrap;
   margin: 50px;
   justify-content: center;
-  color:black;
 }
 
 #image {
@@ -70,4 +69,5 @@ hr {
   padding: 10px;
   background-color: #ccc;
   font-size: 30px;
+  margin: 20px;
 }
