@@ -8,12 +8,10 @@ var previousPageToken = '';
 var nextPageToken = '';
 
 
-var Globalurl = `https://www.googleapis.com/youtube/v3/search?key=AIzaSyAkNkBT_H-jfF3J8jIB083yonYXrQKMUBo&type=video&part=snippet&&maxResults=${maxResults}&q=${searchBox.value}`;
-
 function searchButtonSubmit(urls) {
     var url = '';
     if (urls === undefined) {
-        url = Globalurl;
+        url = `https://www.googleapis.com/youtube/v3/search?key=AIzaSyAkNkBT_H-jfF3J8jIB083yonYXrQKMUBo&type=video&part=snippet&&maxResults=${maxResults}&q=${searchBox.value}`;
     }
     else {
         url = urls;
