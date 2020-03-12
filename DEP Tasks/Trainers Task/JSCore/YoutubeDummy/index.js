@@ -4,22 +4,15 @@ var searchBox = document.getElementById('searchInput');
 var displayResults = document.getElementById('displayResults');
 var maxResults = 15;
 
-var currentToken = "CAoQAA"
 var previousPageToken = '';
 var nextPageToken = '';
 
-searchBox.addEventListener("keyup", function (event) {
-    if (event.keyCode === 13) {
-        event.preventDefault();
-        document.getElementById("searchButton").click();
-    }
-});
 
 var Globalurl = `https://www.googleapis.com/youtube/v3/search?key=AIzaSyAkNkBT_H-jfF3J8jIB083yonYXrQKMUBo&type=video&part=snippet&&maxResults=${maxResults}&q=${searchBox.value}`;
 
 function searchButtonSubmit(urls) {
     var url = '';
-    if (urls == undefined) {
+    if (urls === undefined) {
         url = Globalurl;
     }
     else {
@@ -71,12 +64,6 @@ function displayData(data) {
         title.setAttribute("id", `title-${count}`);
         title.setAttribute("href", `https://www.youtube.com/watch?v=${element.id.videoId}`);
         title.setAttribute("style", "text-decoration:none; color:black; margin-top:10px; font-weight:600;");
-
-        // var descriptionDiv = document.createElement("div");
-        // descriptionDiv.setAttribute("class", `descriptionDiv`);
-        // var description = document.createElement("p");
-        // description.setAttribute("id", `desc-${count}`);
-        // descriptionDiv.append(description);
 
         var channelName = document.createElement("p");
         channelName.setAttribute("id", `channel-${count}`);
