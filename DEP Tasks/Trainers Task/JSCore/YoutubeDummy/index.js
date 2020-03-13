@@ -1,15 +1,15 @@
 //AIzaSyAkNkBT_H-jfF3J8jIB083yonYXrQKMUBo
 
-var searchBox = document.getElementById('searchInput');
-var displayResults = document.getElementById('displayResults');
-var maxResults = 15;
+const searchBox = document.getElementById('searchInput');
+const displayResults = document.getElementById('displayResults');
+const maxResults = 15;
 
-var previousPageToken = '';
-var nextPageToken = '';
+let previousPageToken = '';
+let nextPageToken = '';
 
 
 function searchButtonSubmit(urls) {
-    var url = '';
+    let url = '';
     if (urls === undefined) {
         url = `https://www.googleapis.com/youtube/v3/search?key=AIzaSyAkNkBT_H-jfF3J8jIB083yonYXrQKMUBo&type=video&part=snippet&&maxResults=${maxResults}&q=${searchBox.value}`;
     }
@@ -30,12 +30,12 @@ function searchButtonSubmit(urls) {
 }
 
 function previousResultSet() {
-    var prevUrl = `https://www.googleapis.com/youtube/v3/search?key=AIzaSyAkNkBT_H-jfF3J8jIB083yonYXrQKMUBo&type=video&part=snippet&&maxResults=${maxResults}&q=${searchBox.value}&pageToken=${previousPageToken}`;
+    let prevUrl = `https://www.googleapis.com/youtube/v3/search?key=AIzaSyAkNkBT_H-jfF3J8jIB083yonYXrQKMUBo&type=video&part=snippet&&maxResults=${maxResults}&q=${searchBox.value}&pageToken=${previousPageToken}`;
     searchButtonSubmit(prevUrl);
 }
 
 function nextResultSet() {
-    var nextUrl = `https://www.googleapis.com/youtube/v3/search?key=AIzaSyAkNkBT_H-jfF3J8jIB083yonYXrQKMUBo&type=video&part=snippet&&maxResults=${maxResults}&q=${searchBox.value}&pageToken=${nextPageToken}`;
+    let nextUrl = `https://www.googleapis.com/youtube/v3/search?key=AIzaSyAkNkBT_H-jfF3J8jIB083yonYXrQKMUBo&type=video&part=snippet&&maxResults=${maxResults}&q=${searchBox.value}&pageToken=${nextPageToken}`;
     searchButtonSubmit(nextUrl);
 }
 
@@ -44,26 +44,26 @@ function displayData(data) {
     nextPageToken = data.nextPageToken;
     previousPageToken = data.prevPageToken;
 
-    var child = displayResults.lastElementChild;
+    let child = displayResults.lastElementChild;
     while (child) {
         displayResults.removeChild(child);
         child = displayResults.lastElementChild;
     }
 
     data.items.forEach(element => {
-        var cardDiv = document.createElement("div");
+        let cardDiv = document.createElement("div");
         cardDiv.setAttribute("class", "cardDiv");
 
-        var thumbImage = document.createElement("img");
+        let thumbImage = document.createElement("img");
         thumbImage.setAttribute("id", "image");
         thumbImage.setAttribute("src", element.snippet.thumbnails.medium.url);
 
-        var title = document.createElement("a");
+        let title = document.createElement("a");
         title.setAttribute("id", `title-${count}`);
         title.setAttribute("href", `https://www.youtube.com/watch?v=${element.id.videoId}`);
         title.setAttribute("style", "text-decoration:none; color:black; margin-top:10px; font-weight:600;");
 
-        var channelName = document.createElement("p");
+        let channelName = document.createElement("p");
         channelName.setAttribute("id", `channel-${count}`);
         channelName.setAttribute("style", "color: black; margin-top: 5px; font-weight: 600; font-size: 14px");
 
