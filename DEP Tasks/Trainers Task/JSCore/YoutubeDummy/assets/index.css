@@ -7,6 +7,11 @@ body {
   flex-wrap: wrap;
 }
 
+img{
+  width: 20%;
+  height: auto;
+}
+
 .searchArea {
   max-width: 80%;
   display: flex;
@@ -16,19 +21,20 @@ body {
 
 .searchInput {
   width: 85%;
-  height: 50px;
-  font-size: 28px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 20px;
   padding: 10px;
   border: 0px;
 }
 
 .searchButton {
-  height: 70px;
+  padding: 20px 40px 20px 40px;
   width: 15%;
   border: 0px;
   padding: 10px;
   background-color: #ccc;
-  font-size: 30px;
+  font-size: 25px;
 }
 
 hr {
@@ -44,16 +50,20 @@ hr {
 }
 
 #image {
-  width: 350px;
-  height: 200px;
+  width: 280px;
+  height: 170px;
 }
 
 .cardDiv {
-  max-width: 350px;
+  border-radius: 10px;
+  max-width: 280px;
   display: flex;
   flex-direction: column;
   margin: 25px;
   padding: 5px;
+  -webkit-box-shadow: 10px 10px 6px 0px rgba(212, 212, 212, 1);
+  -moz-box-shadow: 10px 10px 6px 0px rgba(212, 212, 212, 1);
+  box-shadow: 10px 10px 6px 0px rgba(212, 212, 212, 1);
 }
 
 .previousNextButtons {
@@ -63,11 +73,10 @@ hr {
 
 .previousButton,
 .nextButton {
-  height: 80px;
   width: 160px;
   border: 0px;
   padding: 10px;
   background-color: #ccc;
-  font-size: 30px;
+  font-size: 23px;
   margin: 20px;
 }

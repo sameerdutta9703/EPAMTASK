@@ -7,6 +7,13 @@ const maxResults = 15;
 let previousPageToken = '';
 let nextPageToken = '';
 
+//For activating the search event on enter button
+searchBox.addEventListener("keyup", function(event) {
+  if (event.keyCode === 13) {
+    event.preventDefault();
+    document.getElementById("searchButton").click();
+  }
+});
 
 function searchButtonSubmit(urls) {
     let url = '';
